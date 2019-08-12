@@ -2,6 +2,8 @@
 
 [![CircleCI](https://circleci.com/gh/aludvik/ergo.svg?style=svg)](https://circleci.com/gh/aludvik/ergo)
 
+Docs: https://godoc.org/github.com/aludvik/ergo
+
 Package ergo provides more ergonomic error handling for Go. The standard error
 handling patterns in Go are verbose and unwieldy. The ergo package provides
 more ergonomic error handling methods at the cost of type safety. At its core,
